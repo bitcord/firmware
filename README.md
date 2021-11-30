@@ -1,3 +1,3 @@
-# firmware
+# bitcord firmware
 
-## Официальные прошивки BITCORD
+## Official BITCORD firmware
