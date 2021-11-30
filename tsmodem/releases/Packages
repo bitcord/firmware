@@ -39,3 +39,21 @@ SHA256sum: d062388b18fd8432906cdd12c2eae56024d2f085b0e280259698af9e3ae003c0
 SHA256Sum: d062388b18fd8432906cdd12c2eae56024d2f085b0e280259698af9e3ae003c0
 Description:  UI module for Double SIM management for Skw92A with Sim7600 modem integration.
 
+sum: 191c70eeaf2cc9d9aa059c7b7696c3838ea9854c51d0b57a004b8191b56327b9
+SHA256Sum: 191c70eeaf2cc9d9aa059c7b7696c3838ea9854c51d0b57a004b8191b56327b9
+Description:  Double SIM management for Skw92A with Sim7600 modem integration.
+
+Package: tsmodem-ui
+Version: 1.5.6c-1
+Depends: libc
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 1020615
+Filename: tsmodem-ui_1.5.6c-1_all.ipk
+Size: 1020922
+MD5Sum: 6562583fc1091e75b26e1bee69b4851d
+SHA256sum: d062388b18fd8432906cdd12c2eae56024d2f085b0e280259698af9e3ae003c0
+SHA256Sum: d062388b18fd8432906cdd12c2eae56024d2f085b0e280259698af9e3ae003c0
+Description:  UI module for Double SIM management for Skw92A with Sim7600 modem integration.
+
