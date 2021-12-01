@@ -52,6 +52,20 @@ SHA256sum: 191c70eeaf2cc9d9aa059c7b7696c3838ea9854c51d0b57a004b8191b56327b9
 SHA256Sum: 191c70eeaf2cc9d9aa059c7b7696c3838ea9854c51d0b57a004b8191b56327b9
 Description:  Double SIM management for Skw92A with Sim7600 modem integration.
 
+Package: tsmodem
+Version: 1.5.6e-1
+Depends: libc, openssh-sftp-server, luci-compat, luaposix, luabitop, lpeg, coreutils-sleep, libubox-lua, luasocket, coreutils-stty, comgt, kmod-usb-serial, kmod-usb-serial-option, kmod-usb-serial-wwan, usb-modeswitch, kmod-usb-core, luci-app-uhttpd, luci-proto-3g
+License: GPL-3.0-or-later
+Section: luci
+Architecture: all
+Installed-Size: 40977
+Filename: tsmodem_1.5.6e-1_all.ipk
+Size: 41950
+MD5Sum: 214a2b7cdeffde86928f87b78da191cb
+SHA256sum: 15593d33d6568b9c05817fec286f9b0bd7d073b0307d6c9ad3cb7df5307a848c
+SHA256Sum: 15593d33d6568b9c05817fec286f9b0bd7d073b0307d6c9ad3cb7df5307a848c
+Description:  Double SIM management for Skw92A with Sim7600 modem integration.
+
 Package: tsmodem-ui
 Version: 1.5.6c-1
 Depends: libc
